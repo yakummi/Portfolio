@@ -12,7 +12,7 @@
 - [**Google Sheet API + SMTP**](https://github.com/yakummi/Portfolio/blob/main/fl_tasks/Google%20Sheet%20SMTP/readme.md)
 - [Word + ImgBBApi]
 - [Telegram User Bot + Google Sheets + TGStat]
-- [AOMEI + AnyDesk](https://github.com/yakummi/Portfolio/blob/main/fl_tasks/AOMEI%20+%20AnyDesk/readme.md)
+- [**AOMEI + AnyDesk**](https://github.com/yakummi/Portfolio/blob/main/fl_tasks/AOMEI%20+%20AnyDesk/readme.md)
 
 ## **Прочитанные книги**
 
