@@ -22,5 +22,5 @@
 
 ## **Связь со мной**
   - ![tel](https://github.com/yakummi/Portfolio/blob/main/icons/telefone.png)   +7-904-393-99-77
-  - ![telegram](https://github.com/yakummi/Portfolio/blob/main/icons/free-icon-telegram-2111813%20(2).png) [yakummi](t.me/yakummmi)
+  - ![telegram](https://github.com/yakummi/Portfolio/blob/main/icons/free-icon-telegram-2111813%20(2).png) [yakummi](https://t.me/yakummmi)
   - ![email](https://github.com/IvanKorolev13/Portfolio/blob/for-site/email.png)   GorobtsovIvan@mail.ru
