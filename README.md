@@ -10,7 +10,7 @@
 ## **Проекты с фриланса**
 
 - [**Google Sheet API + SMTP**](https://github.com/yakummi/Portfolio/blob/main/fl_tasks/Google%20Sheet%20SMTP/readme.md)
-- [Word + ImgBBApi]
+- [Word + ImgBBApi](https://github.com/yakummi/Portfolio/tree/main/fl_tasks/Word_imgBB/readme.md)
 - [Telegram User Bot + Google Sheets + TGStat]
 - [**AOMEI + AnyDesk**](https://github.com/yakummi/Portfolio/blob/main/fl_tasks/AOMEI%20+%20AnyDesk/readme.md)
 
